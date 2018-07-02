@@ -376,7 +376,7 @@
 
 
 			<!-- Actual pages -->
-			<section id='login' title='As required, username is "hr@auphansoftware.com" and password is "hello" by default.'>
+			<section id='login' title='As required, username is "hello@sam.com" and password is "hello" by default.'>
 				<div id='login_area'>
 				    <h2>Login To Your Account</h2>
 				    <div class='message'>
