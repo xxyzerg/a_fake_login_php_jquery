@@ -12,4 +12,4 @@ This is a fake login page using PHP/Jquery/Ajax and simple HTML/CSS
 <li>Please kindly contact me if there are any questions or if theres any feedback.</li>
 </ul>
 
-<i>developersamxu@gmail.com</i>
+developersamxu@gmail.com
