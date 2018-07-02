@@ -1,4 +1,4 @@
-	<?php
+x	<?php
 	// Handle AJAX request (start)
 	$username = trim($_POST['username']);
 	$password = trim($_POST['password']);
@@ -23,7 +23,7 @@
 		<head>
 		    <meta charset='UTF-8'>
 		    <title>Log-in Page</title>
-		    <!-- Kind reminder: we can use bootstrap here to make page more attractive and with less code, however, as required, I'm not including any Bootstrap classes in this page-->
+		    <!-- Kind reminder: we can use bootstrap here to make page more attractive and with less code, however, in this case, I'm not including any Bootstrap classes in this page to show my understanding in CSS-->
 		    <!-- <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'> -->
 
 		    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
@@ -376,7 +376,7 @@
 
 
 			<!-- Actual pages -->
-			<section id='login' title='As required, username is "hello@sam.com" and password is "hello" by default.'>
+			<section id='login' title='username is "hello@sam.com" and password is "hello" by default.'>
 				<div id='login_area'>
 				    <h2>Login To Your Account</h2>
 				    <div class='message'>
