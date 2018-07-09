@@ -1,4 +1,4 @@
-x	<?php
+	<?php
 	// Handle AJAX request (start)
 	$username = trim($_POST['username']);
 	$password = trim($_POST['password']);
