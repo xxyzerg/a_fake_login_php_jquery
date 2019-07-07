@@ -401,8 +401,7 @@
 			  <h1>Thank you very much!</h1>
 			  <p>Developer: Sam</p>
 			  <p>A fast learner who loves programming and new technologies. Has great problem-solving, time-management skills.</p>
-			  <p>Familiar with PHP/Laravel, SQL, Angularjs, Jquery/Ajax, MVC, Git methods and Jira and so on</p>
-			  <p>Looking for somewhere to work for a long period.</p>
+			  <p>Familiar with PHP, Laravel (PHP), MySQL/SQL, Angular, Jquery/Ajax, MVC, Git methods and Jira and so on.</p>  
 			  <p>Please feel free to contact me at any time for any questions, I would love to discuss more.</p>
 			  <p><a href="tel:+16048661378">+1 604 866 1378</a></p>
 			  <p><a href="mailto:developersamxu@gmail.com">developersamxu@gmail.com</a></p>
